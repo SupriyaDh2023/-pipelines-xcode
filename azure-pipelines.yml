@@ -14,7 +14,7 @@ pool:
 steps:
 - task: Xcode@5
   inputs:
-      actions: 'build, test'
+      actions: 'build test'
       scheme: ''
       sdk: 'iphoneos'
       xcWorkspacePath: '**/*.xcodeproj'
