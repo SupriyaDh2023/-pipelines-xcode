@@ -15,8 +15,8 @@ steps:
 - task: Xcode@5
   inputs:
       actions: 'build test'
-      scheme: ''
       sdk: 'iphoneos'
       xcWorkspacePath: '**/*.xcodeproj'
       xcodeVersion: 'default'
       useXcpretty: false
+      scheme: 'iOSHelloWorldTest'
