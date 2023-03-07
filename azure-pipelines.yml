@@ -20,3 +20,4 @@ steps:
       xcodeVersion: 'default'
       useXcpretty: false
       scheme: 'iOSHelloWorld'
+      configuration: 'Debug'
