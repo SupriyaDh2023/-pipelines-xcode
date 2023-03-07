@@ -15,7 +15,7 @@ steps:
 - task: Xcode@5
   inputs:
       actions: 'build test'
-      sdk: 'iphoneos'
+      sdk: 'iphonesimulator'
       xcWorkspacePath: '**/*.xcodeproj'
       xcodeVersion: 'default'
       useXcpretty: false
