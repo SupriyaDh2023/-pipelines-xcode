@@ -23,4 +23,4 @@ steps:
       configuration: 'Debug'
       packageApp: false
       destinationPlatformOption: 'iOS'
-      destinationSimulators: 'iPhone X'
+      destinationSimulators: 'iPhone 8'
