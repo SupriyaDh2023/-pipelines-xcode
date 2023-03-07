@@ -21,3 +21,6 @@ steps:
       useXcpretty: false
       scheme: 'iOSHelloWorld'
       configuration: 'Debug'
+      packageApp: false
+      destinationPlatformOption: 'iOS'
+      destinationSimulators: 'iPhone X'
