@@ -19,4 +19,4 @@ steps:
       xcWorkspacePath: '**/*.xcodeproj'
       xcodeVersion: 'default'
       useXcpretty: false
-      scheme: 'iOSHelloWorldTest'
+      scheme: 'iOSHelloWorld'
