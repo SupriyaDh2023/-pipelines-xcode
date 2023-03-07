@@ -23,4 +23,4 @@ steps:
       configuration: 'Debug'
       packageApp: false
       destinationPlatformOption: 'iOS'
-      destinationSimulators: 'iPhone 12'
+      destinationSimulators: 'iPhone 14'
