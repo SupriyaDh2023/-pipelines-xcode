@@ -27,6 +27,11 @@ final class iOSHelloWorldTests: XCTestCase {
         XCTAssertTrue(true)
     }
 
+    func testStringEquality() {
+        let str = "Hello world"
+        XCTAssertEqual(str, "Hello world")
+    }
+    
     func testPerformanceExample() throws {
         // This is an example of a performance test case.
         self.measure {
