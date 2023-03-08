@@ -21,6 +21,6 @@ steps:
       useXcpretty: false
       scheme: 'iOSHelloWorld'
       configuration: 'Debug'
-      packageApp: false
       destinationPlatformOption: 'iOS'
       destinationSimulators: 'iPhone 14'
+      packageApp: true
