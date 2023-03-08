@@ -29,7 +29,7 @@ final class iOSHelloWorldTests: XCTestCase {
 
     func testStringEquality() {
         let str = "Hello world"
-        XCTAssertEqual(str, "Hello world")
+        XCTAssertEqual(str, "Hello worl")
     }
     
     func testPerformanceExample() throws {
